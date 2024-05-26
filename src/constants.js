@@ -3,32 +3,33 @@
 // constants.js
 
 export const cloth = [
-    { id: "T4_CLOTH", name: "Cloth 4.0", tier: "4.0" },
-    { id: "T5_CLOTH", name: "Cloth 5.0", tier: "5.0" },
-    { id: "T6_CLOTH", name: "Cloth 6.0", tier: "6.0" },
-    { id: "T7_CLOTH", name: "Cloth 7.0", tier: "7.0" },
-    { id: "T8_CLOTH", name: "Cloth 8.0", tier: "8.0" },
-    { id: "T4_CLOTH_LEVEL1@1", name: "Cloth 4.1", tier: "4.1" },
-    { id: "T5_CLOTH_LEVEL1@1", name: "Cloth 5.1", tier: "5.1" },
-    { id: "T6_CLOTH_LEVEL1@1", name: "Cloth 6.1", tier: "6.1" },
-    { id: "T7_CLOTH_LEVEL1@1", name: "Cloth 7.1", tier: "7.1" },
-    { id: "T8_CLOTH_LEVEL1@1", name: "Cloth 8.1", tier: "8.1" },
-    { id: "T4_CLOTH_LEVEL2@2", name: "Cloth 4.2", tier: "4.2" },
-    { id: "T5_CLOTH_LEVEL2@2", name: "Cloth 5.2", tier: "5.2" },
-    { id: "T6_CLOTH_LEVEL2@2", name: "Cloth 6.2", tier: "6.2" },
-    { id: "T7_CLOTH_LEVEL2@2", name: "Cloth 7.2", tier: "7.2" },
-    { id: "T8_CLOTH_LEVEL2@2", name: "Cloth 8.2", tier: "8.2" },
-    { id: "T4_CLOTH_LEVEL3@3", name: "Cloth 4.3", tier: "4.3" },
-    { id: "T5_CLOTH_LEVEL3@3", name: "Cloth 5.3", tier: "5.3" },
-    { id: "T6_CLOTH_LEVEL3@3", name: "Cloth 6.3", tier: "6.3" },
-    { id: "T7_CLOTH_LEVEL3@3", name: "Cloth 7.3", tier: "7.3" },
-    { id: "T8_CLOTH_LEVEL3@3", name: "Cloth 8.3", tier: "8.3" },
-    { id: "T4_CLOTH_LEVEL4@4", name: "Cloth 4.4", tier: "4.4" },
-    { id: "T5_CLOTH_LEVEL4@4", name: "Cloth 5.4", tier: "5.4" },
-    { id: "T6_CLOTH_LEVEL4@4", name: "Cloth 6.4", tier: "6.4" },
-    { id: "T7_CLOTH_LEVEL4@4", name: "Cloth 7.4", tier: "7.4" },
-    { id: "T8_CLOTH_LEVEL4@4", name: "Cloth 8.4", tier: "8.4" }
+  { id: "T4_CLOTH", name: "Cloth 4.0", tier: 4.0 },
+  { id: "T5_CLOTH", name: "Cloth 5.0", tier: 5.0 },
+  { id: "T6_CLOTH", name: "Cloth 6.0", tier: 6.0 },
+  { id: "T7_CLOTH", name: "Cloth 7.0", tier: 7.0 },
+  { id: "T8_CLOTH", name: "Cloth 8.0", tier: 8.0 },
+  { id: "T4_CLOTH_LEVEL1@1", name: "Cloth 4.1", tier: 4.1 },
+  { id: "T5_CLOTH_LEVEL1@1", name: "Cloth 5.1", tier: 5.1 },
+  { id: "T6_CLOTH_LEVEL1@1", name: "Cloth 6.1", tier: 6.1 },
+  { id: "T7_CLOTH_LEVEL1@1", name: "Cloth 7.1", tier: 7.1 },
+  { id: "T8_CLOTH_LEVEL1@1", name: "Cloth 8.1", tier: 8.1 },
+  { id: "T4_CLOTH_LEVEL2@2", name: "Cloth 4.2", tier: 4.2 },
+  { id: "T5_CLOTH_LEVEL2@2", name: "Cloth 5.2", tier: 5.2 },
+  { id: "T6_CLOTH_LEVEL2@2", name: "Cloth 6.2", tier: 6.2 },
+  { id: "T7_CLOTH_LEVEL2@2", name: "Cloth 7.2", tier: 7.2 },
+  { id: "T8_CLOTH_LEVEL2@2", name: "Cloth 8.2", tier: 8.2 },
+  { id: "T4_CLOTH_LEVEL3@3", name: "Cloth 4.3", tier: 4.3 },
+  { id: "T5_CLOTH_LEVEL3@3", name: "Cloth 5.3", tier: 5.3 },
+  { id: "T6_CLOTH_LEVEL3@3", name: "Cloth 6.3", tier: 6.3 },
+  { id: "T7_CLOTH_LEVEL3@3", name: "Cloth 7.3", tier: 7.3 },
+  { id: "T8_CLOTH_LEVEL3@3", name: "Cloth 8.3", tier: 8.3 },
+  { id: "T4_CLOTH_LEVEL4@4", name: "Cloth 4.4", tier: 4.4 },
+  { id: "T5_CLOTH_LEVEL4@4", name: "Cloth 5.4", tier: 5.4 },
+  { id: "T6_CLOTH_LEVEL4@4", name: "Cloth 6.4", tier: 6.4 },
+  { id: "T7_CLOTH_LEVEL4@4", name: "Cloth 7.4", tier: 7.4 },
+  { id: "T8_CLOTH_LEVEL4@4", name: "Cloth 8.4", tier: 8.4 }
 ];
+
 
 
 export const planks = [
@@ -63,27 +64,10 @@ export const planks = [
   export const locations = ["lymhurst", "thetford", "fort sterling", "caerleon", "martlock", "bridgewatch"];
   
   export const qualities = ["1", "2", "3", "4", "5"];
-  
-  export const clothItems = [
-    "T4_CLOTH", "T5_CLOTH", "T6_CLOTH", "T7_CLOTH", "T8_CLOTH",
-    "T4_CLOTH_LEVEL1@1", "T5_CLOTH_LEVEL1@1", "T6_CLOTH_LEVEL1@1", "T7_CLOTH_LEVEL1@1", "T8_CLOTH_LEVEL1@1",
-    "T4_CLOTH_LEVEL2@2", "T5_CLOTH_LEVEL2@2", "T6_CLOTH_LEVEL2@2", "T7_CLOTH_LEVEL2@2", "T8_CLOTH_LEVEL2@2",
-    "T4_CLOTH_LEVEL3@3", "T5_CLOTH_LEVEL3@3", "T6_CLOTH_LEVEL3@3", "T7_CLOTH_LEVEL3@3", "T8_CLOTH_LEVEL3@3",
-    "T4_CLOTH_LEVEL4@4", "T5_CLOTH_LEVEL4@4", "T6_CLOTH_LEVEL4@4", "T7_CLOTH_LEVEL4@4", "T8_CLOTH_LEVEL4@4"
-  ];
-  
-  export const planksItems = [
-    "T4_PLANKS", "T5_PLANKS", "T6_PLANKS", "T7_PLANKS", "T8_PLANKS",
-    "T4_PLANKS_LEVEL1@1", "T5_PLANKS_LEVEL1@1", "T6_PLANKS_LEVEL1@1", "T7_PLANKS_LEVEL1@1", "T8_PLANKS_LEVEL1@1",
-    "T4_PLANKS_LEVEL2@2", "T5_PLANKS_LEVEL2@2", "T6_PLANKS_LEVEL2@2", "T7_PLANKS_LEVEL2@2", "T8_PLANKS_LEVEL2@2",
-    "T4_PLANKS_LEVEL3@3", "T5_PLANKS_LEVEL3@3", "T6_PLANKS_LEVEL3@3", "T7_PLANKS_LEVEL3@3", "T8_PLANKS_LEVEL3@3",
-    "T4_PLANKS_LEVEL4@4", "T5_PLANKS_LEVEL4@4", "T6_PLANKS_LEVEL4@4", "T7_PLANKS_LEVEL4@4", "T8_PLANKS_LEVEL4@4"
-  ];
-
 
 
   export async function getClothLowestPrices() {
-    const itemNames = clothItems.join(',');
+    const itemNames = cloth.map(item => item.id).join(',');
     const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
     const groupedItems = {};
     const lowestPrices = [];
@@ -114,8 +98,11 @@ export const planks = [
             }
           });
 
+          const clothItem = cloth.find(item => item.id === lowestSellPriceItem.item_id);
+
           lowestPrices.push({
             item_id: lowestSellPriceItem.item_id,
+            tier: clothItem.tier,
             city: lowestSellPriceItem.city,
             sell_price_min: lowestSellPriceItem.sell_price_min
           });
@@ -127,7 +114,8 @@ export const planks = [
       console.error('Error fetching cloth prices:', error);
       throw error;
     }
-  }
+}
+
 
 
   export async function getPlanksLowestPrices() {

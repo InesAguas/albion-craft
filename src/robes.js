@@ -26,9 +26,9 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_SET2@4", name: "Cleric Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_SET2@4", name: "Cleric Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_SET2@4", name: "Cleric Robe 8.4", tier: 8.4 }
-  ];
-  
-  const mageRobeItems = [
+];
+
+const mageRobeItems = [
     { id: "T4_ARMOR_CLOTH_SET3", name: "Mage Robe 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_SET3", name: "Mage Robe 5.0", tier: 5 },
     { id: "T6_ARMOR_CLOTH_SET3", name: "Mage Robe 6.0", tier: 6 },
@@ -54,9 +54,9 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_SET3@4", name: "Mage Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_SET3@4", name: "Mage Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_SET3@4", name: "Mage Robe 8.4", tier: 8.4 }
-  ];
+];
 
-  const scholarRobeItems = [
+const scholarRobeItems = [
     { id: "T2_ARMOR_CLOTH_SET1", name: "Scholar Robe 2.0", tier: 2 },
     { id: "T4_ARMOR_CLOTH_SET1", name: "Scholar Robe 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_SET1", name: "Scholar Robe 5.0", tier: 5 },
@@ -83,9 +83,9 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_SET1@4", name: "Scholar Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_SET1@4", name: "Scholar Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_SET1@4", name: "Scholar Robe 8.4", tier: 8.4 }
-  ];
-  
-  const royalRobeItems = [
+];
+
+const royalRobeItems = [
     { id: "T4_ARMOR_CLOTH_ROYAL", name: "Royal Robe 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_ROYAL", name: "Royal Robe 5.0", tier: 5 },
     { id: "T6_ARMOR_CLOTH_ROYAL", name: "Royal Robe 6.0", tier: 6 },
@@ -111,10 +111,10 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_ROYAL@4", name: "Royal Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_ROYAL@4", name: "Royal Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_ROYAL@4", name: "Royal Robe 8.4", tier: 8.4 }
-  ];
+];
 
 
-  const druidRobeItems = [
+const druidRobeItems = [
     { id: "T4_ARMOR_CLOTH_KEEPER", name: "Druid Robe 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_KEEPER", name: "Druid Robe 5.0", tier: 5 },
     { id: "T6_ARMOR_CLOTH_KEEPER", name: "Druid Robe 6.0", tier: 6 },
@@ -140,9 +140,9 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_KEEPER@4", name: "Druid Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_KEEPER@4", name: "Druid Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_KEEPER@4", name: "Druid Robe 8.4", tier: 8.4 }
-  ];
-  
-  const fiendRobeItems = [
+];
+
+const fiendRobeItems = [
     { id: "T4_ARMOR_CLOTH_HELL", name: "Fiend Robe 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_HELL", name: "Fiend Robe 5.0", tier: 5 },
     { id: "T6_ARMOR_CLOTH_HELL", name: "Fiend Robe 6.0", tier: 6 },
@@ -168,9 +168,9 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_HELL@4", name: "Fiend Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_HELL@4", name: "Fiend Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_HELL@4", name: "Fiend Robe 8.4", tier: 8.4 }
-  ];
+];
 
-  const cultistRobeItems = [
+const cultistRobeItems = [
     { id: "T4_ARMOR_CLOTH_MORGANA", name: "Cultist Robe 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_MORGANA", name: "Cultist Robe 5.0", tier: 5 },
     { id: "T6_ARMOR_CLOTH_MORGANA", name: "Cultist Robe 6.0", tier: 6 },
@@ -196,10 +196,10 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_MORGANA@4", name: "Cultist Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_MORGANA@4", name: "Cultist Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_MORGANA@4", name: "Cultist Robe 8.4", tier: 8.4 }
-  ];
+];
 
 
-  const feyscaleRobeItems = [
+const feyscaleRobeItems = [
     { id: "T4_ARMOR_CLOTH_FEY", name: "Feyscale Robe 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_FEY", name: "Feyscale Robe 5.0", tier: 5 },
     { id: "T6_ARMOR_CLOTH_FEY", name: "Feyscale Robe 6.0", tier: 6 },
@@ -225,10 +225,10 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_FEY@4", name: "Feyscale Robe 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_FEY@4", name: "Feyscale Robe 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_FEY@4", name: "Feyscale Robe 8.4", tier: 8.4 }
-  ];
-  
+];
 
-  const robeOfPurityItems = [
+
+const robeOfPurityItems = [
     { id: "T4_ARMOR_CLOTH_AVALON", name: "Robe of Purity 4.0", tier: 4 },
     { id: "T5_ARMOR_CLOTH_AVALON", name: "Robe of Purity 5.0", tier: 5 },
     { id: "T6_ARMOR_CLOTH_AVALON", name: "Robe of Purity 6.0", tier: 6 },
@@ -254,522 +254,152 @@ const clericRobeItems = [
     { id: "T6_ARMOR_CLOTH_AVALON@4", name: "Robe of Purity 6.4", tier: 6.4 },
     { id: "T7_ARMOR_CLOTH_AVALON@4", name: "Robe of Purity 7.4", tier: 7.4 },
     { id: "T8_ARMOR_CLOTH_AVALON@4", name: "Robe of Purity 8.4", tier: 8.4 }
-  ];
+];
+
+export async function getClericRobePrices() {
+    return await getPrices(clericRobeItems);
+}
+
+export async function getMageRobePrices() {
+    return await getPrices(mageRobeItems);
+}
+
+export async function getScholarRobePrices() {
+    return await getPrices(scholarRobeItems);
+}
+
+export async function getRoyalRobePrices() {
+    return await getPrices(royalRobeItems);
+}
+
+export async function getDruidRobePrices() {
+    return await getPrices(druidRobeItems);
+}
+
+export async function getFiendRobePrices() {
+    return await getPrices(fiendRobeItems);
+}
+
+export async function getCultistRobePrices() {
+    return await getPrices(cultistRobeItems);
+}
+
+export async function getFeyscaleRobePrices() {
+    return await getPrices(feyscaleRobeItems);
+}
+
+export async function getRobeOfPurityPrices() {
+    return await getPrices(robeOfPurityItems);
+}
 
 
 
-  export async function getClericRobePrices() {
-        const itemNames = clericRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
 
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
+export async function getPrices(items) {
+    const itemNames = items.map(item => item.id).join(',');
+    const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
 
-            const lowestPrices = {};
-            const maxPrices = {};
+    const lymhurstLowest = {}
+    const thetfordLowest = {}
+    const fortLowest = {}
+    const caerleonLowest = {}
+    const martlockLowest = {}
+    const bridgewatchLowest = {}
 
-            items.forEach(item => {
+
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const itemsReceived = await response.json();
+
+        itemsReceived.forEach(item => {
             if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
+
+                if (item.city == "Lymhurst") {
+                    if (!lymhurstLowest[item.item_id] || item.sell_price_min < lymhurstLowest[item.item_id].sell_price_min) {
+                        lymhurstLowest[item.item_id] = {
+                            item_id: item.item_id,
+                            city: item.city,
+                            sell_price_min: item.sell_price_min
+                        };
+                    }
+                } else if (item.city == "Thetford") {
+                    if (!thetfordLowest[item.item_id] || item.sell_price_min < thetfordLowest[item.item_id].sell_price_min) {
+                        thetfordLowest[item.item_id] = {
+                            item_id: item.item_id,
+                            city: item.city,
+                            sell_price_min: item.sell_price_min
+                        };
+                    }
+                } else if (item.city == "Fort Sterling") {
+                    if (!fortLowest[item.item_id] || item.sell_price_min < fortLowest[item.item_id].sell_price_min) {
+                        fortLowest[item.item_id] = {
+                            item_id: item.item_id,
+                            city: item.city,
+                            sell_price_min: item.sell_price_min
+                        };
+                    }
+                } else if (item.city == "Caerleon") {
+                    if (!caerleonLowest[item.item_id] || item.sell_price_min < caerleonLowest[item.item_id].sell_price_min) {
+                        caerleonLowest[item.item_id] = {
+                            item_id: item.item_id,
+                            city: item.city,
+                            sell_price_min: item.sell_price_min
+                        };
+                    }
+                } else if (item.city == "Martlock") {
+                    if (!martlockLowest[item.item_id] || item.sell_price_min < martlockLowest[item.item_id].sell_price_min) {
+                        martlockLowest[item.item_id] = {
+                            item_id: item.item_id,
+                            city: item.city,
+                            sell_price_min: item.sell_price_min
+                        };
+                    }
+                } else if (item.city == "Bridgewatch") {
+                    if (!bridgewatchLowest[item.item_id] || item.sell_price_min < bridgewatchLowest[item.item_id].sell_price_min) {
+                        bridgewatchLowest[item.item_id] = {
+                            item_id: item.item_id,
+                            city: item.city,
+                            sell_price_min: item.sell_price_min
+                        };
+                    }
                 }
             }
 
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
+        });
+
+        items.forEach(robe => {
+            let temp = [lymhurstLowest[robe.id], thetfordLowest[robe.id], fortLowest[robe.id], caerleonLowest[robe.id], martlockLowest[robe.id], bridgewatchLowest[robe.id]];
+            temp = temp.filter(item => item !== undefined);
+
+            //console.log(temp)
+
+            const objectWithMaxValue = temp.reduce((maxObject, currentObject) => {
+                const currentValue = currentObject.sell_price_min;
+                if (currentValue > maxObject.sell_price_min) {
+                    return currentObject;
+                } else {
+                    return maxObject;
                 }
-            }
-            });
+            }, temp[0]); // Initialize with the first object in the array
 
-
-            clericRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(clericRobeItems);
-            return clericRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-
-
-  export async function getMageRobePrices() {
-    const itemNames = mageRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
+            if (objectWithMaxValue) {
+                robe.min_city = objectWithMaxValue.city;
+                robe.sell_price_min = objectWithMaxValue.sell_price_min;
+            } else {
+                robe.min_city = "Not found"
+                robe.sell_price_min = -100
             }
 
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
+        });
 
 
-            mageRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(mageRobeItems);
-            return mageRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
+        return items
+    } catch (error) {
+        console.error('Error fetching robe prices:', error);
+        throw error;
+    }
 
-  }
-
-  export async function getScholarRobePrices() {
-    const itemNames = scholarRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
-            }
-
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
-
-
-            scholarRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(scholarRobeItems);
-            return scholarRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-
-  export async function getRoyalRobePrices() {
-    const itemNames = royalRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
-            }
-
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
-
-
-            royalRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(royalRobeItems);
-            return royalRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-
-  export async function getDruidRobePrices() {
-    const itemNames = druidRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
-            }
-
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
-
-
-            druidRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(druidRobeItems);
-            return druidRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-
-  export async function getFiendRobePrices() {
-    const itemNames = fiendRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
-            }
-
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
-
-
-            fiendRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(fiendRobeItems);
-            return fiendRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-
-  export async function getCultistRobePrices() {
-    const itemNames = cultistRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
-            }
-
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
-
-
-            cultistRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(cultistRobeItems);
-            return cultistRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-
-  export async function getFeyscaleRobePrices() {
-    const itemNames = feyscaleRobeItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
-            }
-
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
-
-
-            feyscaleRobeItems.forEach(robe => {
-                if (lowestPrices[robe.id]) {
-                    robe.id = robe.id,
-                    robe.name = robe.name,
-                    robe.tier = robe.tier,
-                    robe.min_city = lowestPrices[robe.id].city,
-                    robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                    robe.max_city = maxPrices[robe.id].city,
-                    robe.sell_price_max = maxPrices[robe.id].sell_price_max
-                }
-            });
-    
-            console.log(feyscaleRobeItems);
-            return feyscaleRobeItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-
-  export async function getRobeOfPurityPrices() {
-    const itemNames = robeOfPurityItems.map(item => item.id).join(',');
-        const url = `https://europe.albion-online-data.com/api/v2/stats/prices/${itemNames}.json?locations=${locations.join(',')}&qualities=${qualities.join(',')}`;
-
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-              throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const items = await response.json();
-
-            const lowestPrices = {};
-            const maxPrices = {};
-
-            items.forEach(item => {
-            if (item.sell_price_min > 0) {
-                if (!lowestPrices[item.item_id] || item.sell_price_min < lowestPrices[item.item_id].sell_price_min) {
-                lowestPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_min: item.sell_price_min
-                };
-                }
-            }
-
-            if (item.sell_price_max > 0) {
-                if (!maxPrices[item.item_id] || item.sell_price_max > maxPrices[item.item_id].sell_price_max) {
-                    maxPrices[item.item_id] = {
-                    item_id: item.item_id,
-                    city: item.city,
-                    sell_price_max: item.sell_price_max
-                };
-                }
-            }
-            });
-
-
-            robeOfPurityItems.forEach(robe => {
-            if (lowestPrices[robe.id]) {
-                robe.id = robe.id,
-                robe.name = robe.name,
-                robe.tier = robe.tier,
-                robe.min_city = lowestPrices[robe.id].city,
-                robe.sell_price_min = lowestPrices[robe.id].sell_price_min,
-                robe.max_city = maxPrices[robe.id].city,
-                robe.sell_price_max = maxPrices[robe.id].sell_price_max
-            }
-            });
-    
-            console.log(robeOfPurityItems);
-            return robeOfPurityItems;
-          } catch (error) {
-            console.error('Error fetching cleric robe prices:', error);
-            throw error;
-          }
-  }
-  
+}

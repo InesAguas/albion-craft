@@ -18,7 +18,7 @@
     </div>
   </nav>
   <div class="container mt-3">
-    <RobesTable v-if="activeTab === 'robes'" />
+    <RobesTable v-if="activeTab === 'robes' && clothPrices.length > 0" :clothPrices="clothPrices" />
   </div>
 </div>
 </template>
@@ -42,8 +42,12 @@ export default {
   },
   methods: {
   },
-  mounted() {
-    //this.clothPrices = getClothLowestPrices();
+  async mounted() {
+    try {
+      this.clothPrices = await getClothLowestPrices();
+    } catch (error) {
+      console.error('Error fetching cloth prices:', error);
+    }
     //this.planksPrices = getPlanksLowestPrices();
   }
 }
